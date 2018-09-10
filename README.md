@@ -5,11 +5,11 @@ trees.
 
 HTML slides can viewed at:
 
-https://cdn.rawgit.com/cfhammill/2018-08-31_brain-taxonomy-trees-stancon/8281af5b/bayesian-brain-taxonomy-trees.html
+https://cdn.rawgit.com/cfhammill/2018-08-31_brain-taxonomy-trees-stancon/7591ec69/bayesian-brain-taxonomy-trees.html
 
 PDF slides can be downloaded from this repository:
 
-./hammill-taxonomy-trees.pdf
+(./hammill-taxonomy-trees.pdf)
 
 A video of the talk can be found:
 
