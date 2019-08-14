@@ -5,7 +5,7 @@ trees.
 
 HTML slides can viewed at:
 
-https://cdn.rawgit.com/cfhammill/2018-08-31_brain-taxonomy-trees-stancon/7591ec69/bayesian-brain-taxonomy-trees.html
+https://raw.githack.com/cfhammill/2018-08-31_brain-taxonomy-trees-stancon/master/bayesian-brain-taxonomy-trees.html
 
 PDF slides can be downloaded from this repository:
 
